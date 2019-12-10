@@ -2,7 +2,7 @@ File Fragment Type Identification using Recurrent Neural Networks
 
 This code is mostly a modification of code taken from "FiFTy: Large-scale File Fragment Type Identification using Neural Networks" avaiable at https://github.com/mittalgovind/fifty
 
-To use this code follow this steps:
+To use this code follow these steps:
 
 1- Download Scenario #1 (512-byte blocks) from http://dx.doi.org/10.21227/kfxw-8084 and unzip into data directory
 
