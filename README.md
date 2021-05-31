@@ -1,4 +1,4 @@
-File Fragment Type Identification using Recurrent Neural Networks
+# File Fragment Type Identification using Recurrent Neural Networks
 
 This code is mostly a modification of code taken from "FiFTy: Large-scale File Fragment Type Identification using Neural Networks" avaiable at https://github.com/mittalgovind/fifty
 
